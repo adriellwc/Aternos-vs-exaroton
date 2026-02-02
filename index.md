@@ -1,38 +1,36 @@
-# Aternos vs exaroton
 Feature comparison between Aternos and exaroton
 
 ## Quick Comparison Table
-
 | # | Feature | Aternos | exaroton |
 |---|--------|---------|----------|
-| 1 | Public API | Doesn't provide a public API | Provides a public API |
-| 2 | Custom startup arguments | Not possible | Supported |
-| 3 | Performance | Lower performance | Better performance |
-| 4 | Loading / saving speed | Slower | Faster |
-| 5 | Ads | Funded by ads; many ads on the website | Paid service; ad-free |
-| 6 | Startup queue | May be lined up in a queue when starting the server | No queue |
-| 7 | RAM | Less than 3 GB without Medal boosts (varies by software/version) | Up to 16 GB |
-| 8 | World upload size limit | 1 GB | 3 GB |
-| 9 | Server storage limit (compressed) | 4 GB | 10 GB |
-| 10 | Discord bot | No public Discord bot; requires visiting the website to access the server | Public Discord bot to start/stop/restart servers, get status, and more |
-| 11 | Autostart | Not available | Available |
-| 12 | Autostop | Always enabled to save resources | Configurable; can be enabled to save credits |
-| 13 | Custom plugins / mods | Not possible as some allow automatic shutdown circumvention | Any plugins / mods allowed |
-| 14 | Paid plugins / mods | Not possible | Allowed |
-| 15 | File downloads | Only certain files (worlds, configs, Bedrock addons, etc.) | Any files (`Ctrl + A` to select all) |
-| 16 | Servers per account | Create up to 3 servers | Create up to 10 servers |
-| 17 | Server regions | Central Europe only | Central Europe and North America |
-| 18 | Server networks | Not supported | Supported |
-| 19 | Custom server software | Not supported | Supported |
-| 20 | Modpacks | Only preloaded modpacks | Can upload custom modpacks |
-| 21 | Preloaded modpacks | Fewer available | More available |
-| 22 | Modpack modification | Cannot modify mod collection or configs | Possible with modpack overrides |
-| 23 | Modpack versions | Only latest version available | Can use specific versions by uploading as custom server software |
-| 24 | Monetization | Not allowed | Allowed |
-| 25 | Offline waiting lobby | Cannot be disabled | Configurable |
-| 26 | Player idle timeout | Limited; cannot be disabled | Not limited |
-| 27 | Server render / view distance | Limited | Not limited |
-| 28 | Advertising | Aternos Discord | Aternos and exaroton Discord |
+| [1](#public-api) | Public API | Doesn't provide a public API | Provides a public API |
+| [2](#custom-startup-arguments) | Custom startup arguments | Not possible | Supported |
+| [3](#performance) | Performance | Lower performance | Better performance |
+| [4](#server-loading--saving-speed) | Loading / saving speed | Slower | Faster |
+| [5](#ads) | Ads | Funded by ads; many ads on the website | Paid service; ad-free |
+| [6](#startup-queue) | Startup queue | May be lined up in a queue when starting the server | No queue |
+| [7](#ram-allocation) | RAM | Less than 3 GB without Medal boosts | Up to 16 GB |
+| [8](#world-upload-size-limit) | World upload size limit | 1 GB | 3 GB |
+| [9](#server-storage-limit-compressed) | Server storage limit (compressed) | 4 GB | 10 GB |
+| [10](#discord-bot) | Discord bot | No public Discord bot | Public Discord bot |
+| [11](#autostart) | Autostart | Not available | Available |
+| [12](#autostop) | Autostop | Always enabled | Configurable |
+| [13](#custom-plugins--mods) | Custom plugins / mods | Restricted | Allowed |
+| [14](#paid-plugins--mods) | Paid plugins / mods | Not possible | Allowed |
+| [15](#file-downloads) | File downloads | Limited | Any files |
+| [16](#server-creation-limit-per-account) | Servers per account | Up to 3 | Up to 10 |
+| [17](#server-regions) | Server regions | Central Europe | Central Europe & NA |
+| [18](#server-networks) | Server networks | Not supported | Supported |
+| [19](#custom-server-software) | Custom server software | Not supported | Supported |
+| [20](#modpacks) | Modpacks | Preloaded only | Custom allowed |
+| [21](#preloaded-modpacks) | Preloaded modpacks | Fewer | More |
+| [22](#modpack-modification) | Modpack modification | Not allowed | Allowed |
+| [23](#modpack-versions) | Modpack versions | Latest only | Any version |
+| [24](#monetization) | Monetization | Not allowed | Allowed |
+| [25](#offline-waiting-lobby) | Offline waiting lobby | Forced | Configurable |
+| [26](#player-idle-timeout) | Player idle timeout | Limited | Unlimited |
+| [27](#server-render--view-distance) | Render distance | Limited | Unlimited |
+| [28](#server-advertising) | Advertising | Aternos Discord | Both Discords |
 
 
 
