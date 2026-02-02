@@ -1,4 +1,4 @@
-Feature comparison between Aternos and exaroton
+Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://exaroton.com/)
 
 ## Quick Comparison Table
 
@@ -13,25 +13,25 @@ Feature comparison between Aternos and exaroton
 | [7](#ram-allocation) | RAM | Less than 3 GB without Medal boosts | Up to 16 GB |
 | [8](#world-upload-size-limit) | World upload size limit | 1 GB | 3 GB |
 | [9](#server-storage-limit-compressed) | Server storage limit (compressed) | 4 GB | 10 GB |
-| [10](#discord-bot) | Discord bot | No public Discord bot | Public Discord bot |
+| [10](#discord-bot) | Discord bot | No public Discord bot | Public Discord bot available|
 | [11](#autostart) | Autostart | Not available | Available |
-| [12](#autostop) | Autostop | Always enabled | Configurable |
-| [13](#custom-plugins--mods) | Custom plugins / mods | Restricted | Allowed |
+| [12](#autostop) | Autostop | Always enabled to save resources | Configurable; can be enabled to save credits |
+| [13](#custom-plugins--mods) | Custom plugins / mods | Not possible as some allow automatic shutdown circumvention | Any plugins / mods allowed |
 | [14](#paid-plugins--mods) | Paid plugins / mods | Not possible | Allowed |
-| [15](#file-downloads) | File downloads | Limited | Any files |
-| [16](#server-creation-limit-per-account) | Servers per account | Up to 3 | Up to 10 |
-| [17](#server-regions) | Server regions | Central Europe | Central Europe & NA |
+| [15](#file-downloads) | File downloads | Only certain files (worlds, configs, Bedrock addons, etc.) | Most files |
+| [16](#server-creation-limit-per-account) | Servers per account | Create up to 3 servers | Create up to 10 servers |
+| [17](#server-regions) | Server regions | Central Europe only | Central Europe & North America |
 | [18](#server-networks) | Server networks | Not supported | Supported |
 | [19](#custom-server-software) | Custom server software | Not supported | Supported |
-| [20](#modpacks) | Modpacks | Preloaded only | Custom allowed |
+| [20](#modpacks) | Modpacks | Preloaded modpacks only | Custom modpacks can be uploaded |
 | [21](#preloaded-modpacks) | Preloaded modpacks | Fewer | More |
-| [22](#modpack-modification) | Modpack modification | Not allowed | Allowed |
-| [23](#modpack-versions) | Modpack versions | Latest only | Any version |
+| [22](#modification-of-preloaded-modpacks) | Preloaded modpack modification | Cannot modify mod collection or configs | Possible with modpack overrides |
+| [23](#modpack-versions) | Modpack versions | Latest only | Can use specific versions by uploading |
 | [24](#monetization) | Monetization | Not allowed | Allowed |
 | [25](#offline-waiting-lobby) | Offline waiting lobby | Forced | Configurable |
-| [26](#player-idle-timeout) | Player idle timeout | Limited | Unlimited |
-| [27](#server-render--view-distance) | Render distance | Limited | Unlimited |
-| [28](#server-advertising) | Advertising | Aternos Discord | Both Discords |
+| [26](#player-idle-timeout) | Player idle timeout | Limited; cannot be disabled | Not limited |
+| [27](#server-render--view-distance) | Render / view distance | Limited | Not limited |
+| [28](#server-advertising) | Advertising | Aternos Discord only | Aternos and exaroton Discord |
 
 
 
@@ -120,7 +120,7 @@ Feature comparison between Aternos and exaroton
 ## Preloaded Modpacks
    - exaroton offers more [preloaded modpacks](http://exaroton.com/software/modpacks) for quick setup and instant play. See [the official guide](https://support.exaroton.com/hc/en-us/articles/4415404404625).
 
-## Modpack Modification
+## Modification of Preloaded Modpacks
    - Aternos does not allow modifying the mods or configs of preloaded modpacks.
    - exaroton supports [modpack overrides](https://support.exaroton.com/hc/en-us/articles/32500934647709).
 
