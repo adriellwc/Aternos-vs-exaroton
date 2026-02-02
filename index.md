@@ -1,4 +1,12 @@
-Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://exaroton.com/)
+Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://exaroton.com/) 
+
+## Table of Contents
+
+- [Quick Comparison Table](#quick-comparison-table)
+- [Aternos vs exaroton - Feature Comparison with Explanation](#aternos-vs-exaroton---feature-comparison-with-explanation)
+- [What Makes exaroton Different](#what-makes-exaroton-different)
+- [Current Downsides of exaroton](#current-downsides-of-exaroton)
+
 
 ## Quick Comparison Table
 
@@ -36,7 +44,7 @@ Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://
 
 
 
-## Aternos vs exaroton – Feature Comparison
+# Aternos vs exaroton - Feature Comparison with Explanation
 
 ## Public API
    - Aternos does **not** provide a public API.
@@ -94,7 +102,7 @@ Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://
    - exaroton allows the use of any plugins/mods, including paid ones.
 
 ## File Downloads
-   - Aternos only allows downloading specific files (e.g. worlds, configs, Bedrock addons).
+   - Aternos only allows downloading specific files (e.g., worlds, configs, Bedrock addons).
    - exaroton allows downloading most server files (use `Ctrl + A` to select all files).
 
 ## Server Creation Limit per Account
@@ -147,4 +155,34 @@ Feature comparison between [Aternos](http://aternos.org/) and [exaroton](http://
 ## Server Advertising
    - Aternos server advertisements are only allowed in the [Aternos Discord](https://discord.gg/aternos)'s **servers** channel.
    - exaroton server advertisements are allowed in both the [Aternos Discord](https://discord.gg/aternos)'s **servers** channel and the [exaroton Discord](http://discord.gg/exaroton)'s **servers** channel.
+
+---
+
+# What Makes exaroton Different
+
+1. Unlike the traditional hosting providers with a fixed monthly plan, exaroton is **pay-as-you-go**! You are only charged for the time you **actually use** your server. [Read about pricing here](https://support.exaroton.com/hc/en-us/articles/360019687657).
+2. exaroton is not meant for running your server 24/7. After all, most servers don’t have players online all the time. Just enable **[Autostart](https://support.exaroton.com/hc/en-us/articles/15338752897181)** and **[Autostop](https://support.exaroton.com/hc/en-us/articles/360019687297)** so players can join and play anytime while saving your money.
+3. There's **no subscription**; you don't need to worry about getting a bill charged automatically. You only pay when you choose to buy credits.
+4. Share payments for your server with your friends in a safe way with **[credit pools](https://support.exaroton.com/hc/en-us/articles/11567970055581)**!
+5. You can change your server's allocated RAM at any time whenever needed.
+7. [Import your Aternos servers](https://support.exaroton.com/hc/en-us/articles/360019857978) to exaroton instantly with just a few clicks!
+8. Unlike many other hosting providers, exaroton offers **[free backups](https://support.exaroton.com/hc/en-us/articles/360019857278)**! Backups stay even after server deletion. Just enable automatic backups and you are worry-free!
+9. Tired of the default `exaroton.me` address? Use a **[custom domain name](https://support.exaroton.com/hc/en-us/articles/360019687257)**!
+10. exaroton is made by a company with **12+ years** of server hosting experience, continuously adding **new features**!
+   
+---
+
+# Current Downsides of exaroton
+
+1. Certain plugins/mods may not work, such as voting or backup plugins/mods, as well as web map plugins/mods (e.g., Dynmap, BlueMap).  
+2. exaroton only provides **one port per server**, so it’s not possible to use both a voice chat plugin and GeyserMC simultaneously.  
+3. Although planned, there are currently no servers in the Asia region.
+4. Only the latest server log file is stored.  
+
+---
+
+<p align="center">
+Made with ❤️ by Adriel
+</p>
+
 
