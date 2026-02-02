@@ -1,6 +1,7 @@
 Feature comparison between Aternos and exaroton
 
 ## Quick Comparison Table
+
 | # | Feature | Aternos | exaroton |
 |---|--------|---------|----------|
 | [1](#public-api) | Public API | Doesn't provide a public API | Provides a public API |
@@ -31,6 +32,7 @@ Feature comparison between Aternos and exaroton
 | [26](#player-idle-timeout) | Player idle timeout | Limited | Unlimited |
 | [27](#server-render--view-distance) | Render distance | Limited | Unlimited |
 | [28](#server-advertising) | Advertising | Aternos Discord | Both Discords |
+
 
 
 
