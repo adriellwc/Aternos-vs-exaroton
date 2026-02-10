@@ -169,6 +169,7 @@ The maximum distance from players that living entities may be located in order t
 #### Aternos
    - Running your server 24/7 is **not** possible on Aternos because it is a 100% free service. Aternos has limited resources and wants to ensure they are used by active players.
    - Trying to circumvent this is a violation of [Aternos’ terms](https://aternos.org/tos) and will result in your Aternos account(servers) being suspended permanently. [Read more here](https://support.aternos.org/hc/en-us/articles/31771896948253).
+
 #### exaroton
    - On exaroton, it is possible to run your server 24/7. However, this is **not** the intended use case for exaroton and will be more expensive than other hosting providers. It is recommended to enable [Autostart](https://support.exaroton.com/hc/en-us/articles/15338752897181) and [Autostop](https://support.exaroton.com/hc/en-us/articles/360019687297) to only run your server when there are active players.
    - If you run a large public server that almost always has players online, a traditional monthly subscription-based hosting provider might be cheaper. However, if you only play a few hours per day with your friends, you can save a lot of money by only running your server when you actively use it with exaroton.
@@ -177,6 +178,7 @@ The maximum distance from players that living entities may be located in order t
 #### Aternos
    - On Aternos, whether addons for specific mods or plugins are allowed always depends on how those addons are implemented in the mod/plugin in question. If a mod/plugin implements their addon system in a safe way, Aternos generally allows addons to be uploaded. For example, content packs for the Immersive Railroading mod are supported.
    - If the way a mod/plugin implements their addon system or the addon itself might allow circumventing [Aternos' restrictions](https://aternos.org/tos), such as bypassing the automatic shutdown, then such addons cannot be used on Aternos. For example, gunpacks for the TaCZ mod, addons for the Fisk's Superheroes mod, addons for the Lucraft: Core mod, content packs for the Flan's Mod, addons for the Skript plugin are **not** supported.
+
 #### exaroton
 - On exaroton, most, if not all, addons for mods and plugins are supported.
 
@@ -210,7 +212,7 @@ The maximum distance from players that living entities may be located in order t
 3. Although planned, there are currently no servers in the Asia region.
 4. Renaming files on the website is unfortunately currently not possible due to the way exaroton's storage system is implemented. exaroton is planning to fix this in the future but it requires a major overhaul of some core systems.
 5. Only the latest server log file is stored.
-6. FTP is not supported on exaroton.
+6. FTP is not supported on exaroton, but you can still upload various files.
 7. exaroton does not provide static IP addresses, due to the dynamic pricing model.
 8. The `/restart` command added by Spigot is not supported on exaroton. (Note that you should never use `/reload` or `/bukkit:reload` on Bukkit-based software like Spigot/Paper/Purpur. Use `/minecraft:reload` instead for reloading datapacks.) 
 
